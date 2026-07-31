@@ -1,5 +1,6 @@
 # Hi 👋, I'm Rupali Akter
-### 🎓 3rd Year CSE Student | 💻 Frontend Developer (in progress) | 🚀 Aspiring Full-Stack Developer
+
+![Logo](https://res.cloudinary.com/diuj9r1rj/image/upload/v1785512126/cover_image_fgtmfh.png)
 
 ---
 
@@ -52,12 +53,6 @@ I'm always exploring new tools to grow as a developer. Feel free to reach out if
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupa3670)
 
 ---
-
-## 📊 GitHub Stats
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupa3670&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupa3670&layout=compact&theme=radical) |
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rupa3670&theme=radical)
 
