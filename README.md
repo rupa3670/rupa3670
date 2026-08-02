@@ -11,9 +11,9 @@
 I'm a Computer Science & Engineering student passionate about building modern, clean web applications. I'm currently learning **Web Development (MERN Stack)**, and I enjoy working with **React**, **JavaScript**, and **Node.js**.
 I'm always exploring new tools to grow as a developer. Feel free to reach out if you want to talk about web development or cool project ideas!
 
-- 🔭 I'm currently working on an **online book borrowing platform**
-- 🌱 I'm currently exploring **Next.js** and advanced React patterns
-- 👯 I'm looking to collaborate on **MERN stack projects**
+- 🌱 I'm currently exploring **Django**
+- 📚 I'm currently improving my skills in **MERN stack development**
+- 👯 I'm looking to collaborate on **frontend or full-stack projects**
 - 💬 Ask me about **React, JavaScript, Node.js, or MongoDB**
 
 ---
