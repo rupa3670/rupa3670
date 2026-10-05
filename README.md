@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rupali Akter
 
-### 🎓 3rd Year CSE Student | Frontend Developer (in progress) | Aspiring Full-Stack Developer
+### 🎓 4th Year CSE Student | Frontend Developer (in progress) | Aspiring Full-Stack Developer
 
 ![Banner](https://res.cloudinary.com/diuj9r1rj/image/upload/v1785512126/cover_image_fgtmfh.png)
 
