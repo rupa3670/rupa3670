@@ -7,12 +7,12 @@
 ---
 
 ## 👨‍💻 About Me
+I'm a Computer Science and Engineering student focused on **Frontend Development**. I build responsive, user-friendly web applications using **HTML, CSS, JavaScript, React.js, and Next.js**.
 
-I'm a Computer Science & Engineering student passionate about building modern, clean web applications. I'm currently learning **Web Development (MERN Stack)**, and I enjoy working with **React**, **JavaScript**, and **Node.js**.
-I'm always exploring new tools to grow as a developer. Feel free to reach out if you want to talk about web development or cool project ideas!
+I'm expanding my skills in **Full-Stack Development (MERN)** while improving my problem-solving and software development skills. My long-term goal is to become a **Product Engineer** and build practical, user-focused solutions to real-world problems.
 
 - 🌱 I'm currently exploring **TypeScript**
-- 📚 I'm currently improving my skills in **MERN stack development**
+- 📚 I'm currently improving my skills in **Full-stack development**
 - 👯 I'm looking to collaborate on **frontend or full-stack projects**
 - 💬 Ask me about **React, JavaScript, Node.js, or MongoDB**
 
